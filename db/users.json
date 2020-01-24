@@ -1,9 +1,5 @@
 {
-  "customers": [],
-  "inventory": [],
-  "orders": [],
-  "products": [],
-  "users": [
+     "users": [
     {
       "username": "demo",
       "password": "demo",
